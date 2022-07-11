@@ -1,7 +1,7 @@
 package http.server;
 
+import http.Repository;
 import http.items.HttpRepository;
-import origin.variable.model.Repository;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
