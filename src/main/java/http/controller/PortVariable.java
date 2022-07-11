@@ -1,10 +1,10 @@
 package http.controller;
 
+import exception.VariableException;
+import exception.VariableMessage;
+import http.Repository;
 import http.items.HttpRepository;
 import http.model.HttpWork;
-import origin.exception.VariableException;
-import origin.exception.VariableMessage;
-import origin.variable.model.Repository;
 
 import java.util.StringTokenizer;
 import java.util.regex.Pattern;
